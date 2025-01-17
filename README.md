@@ -16,7 +16,7 @@ An AI-powered system designed to streamline recruitment by analyzing resumes, ex
 - **Programming Language:** Python
 - **Libraries:** Pandas, Scikit-learn, NLTK, Regex
 - **Machine Learning Techniques:** TF-IDF Vectorization, Random Forest Classifier
-- **Data:** 2,484 resumes with labeled job categories
+- **Data:** 900+ resumes with labeled job categories
 
 ---
 
